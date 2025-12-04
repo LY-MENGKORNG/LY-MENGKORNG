@@ -1,5 +1,11 @@
-<h1 align="center">Hi there, I'm Mengkorng👋</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=24&letterSpacing=&pause=1000&color=A400F7&width=435&lines=Hi+there%2C+I'm+Mengkorng+%F0%9F%91%8B" 
+      alt="Mengkorng" />
+  </a>
+</h1>
+<h2 align="center">A Full-Stack developer</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat" />
