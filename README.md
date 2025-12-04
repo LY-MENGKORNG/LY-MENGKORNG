@@ -2,10 +2,11 @@
 <h3 align="center">A Full-Stack developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LY-MENGKORNG&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <a href="https://github.com/LY-MENGKORNG">
-    <img src="https://img.shields.io/github/followers/LY-MENGKORNG?label=Followers&style=social" alt="followers" />
-  </a>
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/playing-Spotify-lightblue?style=for-the-badge&logo=spotify" />
+  <img src="https://img.shields.io/badge/coding-JavaScript-yellow?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/listening-Spotify-green?style=for-the-badge&logo=spotify" />
+  <img src="https://img.shields.io/github/followers/LY-MENGKORNG?label=Followers&style=for-the-badge" />
 </p>
 
 ## 🚀 About Me
