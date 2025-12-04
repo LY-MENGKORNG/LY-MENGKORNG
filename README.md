@@ -9,8 +9,8 @@
 </p>
 
 ## 🚀 About Me
-I'm a full-stack developer based in Cambodia 🇰🇭, focused on creating scalable web applications.  
-I specialize in JavaScript, TypeScript.
+I'm a full-stack developer based in **Cambodia** 🇰🇭, focused on creating scalable web applications.  
+I specialize in **JavaScript**, **TypeScript**.
 
 - 🔭 Currently working on: **Lifelearn — a full education platform**  
 - 🌱 Learning: **Deno, Drizzle ORM, DevOps basics**  
