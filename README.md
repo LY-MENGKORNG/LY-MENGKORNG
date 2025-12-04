@@ -9,29 +9,19 @@
 </p>
 
 ## 🚀 About Me
-I'm a full-stack developer based in Cambodia, focused on creating scalable web and mobile applications.  
-I specialize in JavaScript, TypeScript, React, Vue, Laravel, and Prisma.  
+I'm a full-stack developer based in Cambodia 🇰🇭, focused on creating scalable web applications.  
+I specialize in JavaScript, TypeScript.
 
-- 🔭 Currently working on: **Lifelearn — a full education platform (Admin, Web, System)**  
+- 🔭 Currently working on: **Lifelearn — a full education platform**  
 - 🌱 Learning: **Deno, Drizzle ORM, DevOps basics**  
 - 👯 Open to collaborating on: **EdTech projects and modern full-stack apps**  
-- 💬 Ask me about: **React, Vue, Laravel, Prisma, Next.js, React Native**  
+- 💬 Ask me about: **Vue, React, Nuxt.js, Next.js**  
 - 📫 Reach me at: [**LinkedIn**](https://www.linkedin.com/in/mengkorng-ly/)
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack & Tools
+<img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
 
-<h3 align="center"><b>Languages</b></h3>
+##
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LY-MENGKORNG&theme=tokyonight" height="200" width="100%" />
 </p>
-
-<h3 align="center"><b>Frameworks & Libraries</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,nextjs,nodejs" />
-</p>
-
-<h3 align="center"><b>Databases & DevOps</b></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
-</p>
-
