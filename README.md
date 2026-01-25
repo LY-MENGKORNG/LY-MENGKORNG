@@ -26,3 +26,11 @@ I specialize in **JavaScript**, **TypeScript**.
 
 ## 📅 Activities
 <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/metrics.svg?sanitize=true" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/2077/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/2077/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/2077/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/2077/4-productive-time.svg" />
+</div>
