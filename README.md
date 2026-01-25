@@ -26,8 +26,3 @@ I specialize in **JavaScript**, **TypeScript**.
 
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
-
-##
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LY-MENGKORNG&theme=tokyonight" height="200" width="100%" />
-</p>
