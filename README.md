@@ -15,11 +15,11 @@
 I'm a full-stack developer based in **Cambodia** 🇰🇭, focused on creating scalable web applications.  
 I specialize in **JavaScript**, **TypeScript**.
 
-- 🔭 Currently working on: **Lifelearn — a full education platform**  
-- 🌱 Learning: **Deno, Drizzle ORM, DevOps basics**  
-- 👯 Open to collaborating on: **EdTech projects and modern full-stack apps**  
-- 💬 Ask me about: **Vue, React, Nuxt.js, Next.js**  
-- 📫 Reach me at: [**LinkedIn**](https://www.linkedin.com/in/mengkorng-ly/)
+|__ 🔭 Currently working on: **Lifelearn — a full education platform**  
+|__ 🌱 Learning: **Deno, Drizzle ORM, DevOps basics**  
+|__ 👯 Open to collaborating on: **EdTech projects and modern full-stack apps**  
+|__ 💬 Ask me about: **Vue, React, Nuxt.js, Next.js**  
+|__ 📫 Reach me at: [**LinkedIn**](https://www.linkedin.com/in/mengkorng-ly/)
 
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
