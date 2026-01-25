@@ -7,8 +7,6 @@
 </h1>
 <h2 align="start">A Full-Stack developer</h2>
 
-<img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/metrics.svg" alt="metrics" />
-
 <p align="start">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/coding-TypeScript-yellow?style=flat&logo=typescript" />
@@ -28,3 +26,5 @@ I specialize in **JavaScript**, **TypeScript**.
 
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
+
+<img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/metrics.svg?sanitize=true" />
