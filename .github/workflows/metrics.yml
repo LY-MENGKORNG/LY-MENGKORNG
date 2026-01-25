@@ -47,9 +47,12 @@ jobs:
 
           # Optional: show habits like coding times
           plugin_habits: yes
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_trim: yes
 
           # Optional: repo + PR stats
           plugin_repositories: yes
-          plugin_repositories_featured: 2
+          plugin_repositories_pinned: yes
+          plugin_repositories_featured: ""
