@@ -1,10 +1,7 @@
-<h1 align="start">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=24&letterSpacing=&pause=1000&color=A400F7&width=435&lines=Hi+there%2C+I'm+Mengkorng+%F0%9F%91%8B" 
-      alt="Mengkorng" />
-  </a>
-</h1>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=24&letterSpacing=&pause=1000&color=A400F7&width=435&lines=Hi+there%2C+I'm+Mengkorng+%F0%9F%91%8B" 
+  alt="Mengkorng"
+/>
 <h2 align="start">A Full-Stack developer</h2>
 
 <p align="start">
@@ -27,4 +24,5 @@ I specialize in **JavaScript**, **TypeScript**.
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
 
+## 📅 Activities
 <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/metrics.svg?sanitize=true" />
