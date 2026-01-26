@@ -1,15 +1,15 @@
-<img 
-  src="https://readme-typing-svg.demolab.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=24&letterSpacing=&pause=1000&color=A400F7&width=435&lines=Hi+there%2C+I'm+Mengkorng+%F0%9F%91%8B" 
-  alt="Mengkorng"
-/>
-<h2 align="start">A Full-Stack developer</h2>
-
-<p align="start">
-  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/coding-TypeScript-yellow?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/playing-Spotify-lightblue?style=flat&logo=spotify" />
-  <img src="https://img.shields.io/github/followers/LY-MENGKORNG?label=Followers&style=flat" />
-</p>
+<h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=GeistMono+Nerd+Font+Mono&weight=700&size=24&letterSpacing=&pause=1000&color=A400F7&width=435&lines=Hi+there%2C+I'm+Mengkorng+%F0%9F%91%8B" 
+    alt="Mengkorng"
+  />
+  <p align="start">
+    <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat" />
+    <img src="https://img.shields.io/badge/coding-TypeScript-yellow?style=flat&logo=typescript" />
+    <img src="https://img.shields.io/badge/playing-Spotify-lightblue?style=flat&logo=spotify" />
+    <img src="https://img.shields.io/github/followers/LY-MENGKORNG?label=Followers&style=flat" />
+  </p>  
+</h1>
 
 ## 🚀 About Me
 I'm a full-stack developer based in **Cambodia** 🇰🇭, focused on creating scalable web applications.  
