@@ -23,16 +23,3 @@ I specialize in **JavaScript**, **TypeScript**.
 
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
-
-## 📅 Activities
-<div align="start">
-  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="98.5%" />
-</div>
-<div style="display: flex; width: 100%;">
-  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-</div>
-<div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/LY-MENGKORNG/LY-MENGKORNG/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-</div>
