@@ -22,4 +22,4 @@ I specialize in **JavaScript**, **TypeScript**.
 |__ 📫 Reach me at: [**LinkedIn**](https://www.linkedin.com/in/mengkorng-ly/)
 
 ## 🛠️ Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,go,nodejs,react,vue,nuxt,nextjs,svelte,prisma,mysql,postgres,docker,gitlab" />
