@@ -12,11 +12,11 @@
 </h1>
 
 A developer in **Cambodia** 🇰🇭,
-> A son of a beautiful mom and a kind dad, sibling of three.
+> son of a beautiful mom and a kind dad, sibling of three.
 
 - 🌱 Learning: **Rust, DevOps**
 - 👯 Open to collaborating on: **EdTech projects and CLI app** 
 - 💬 Ask me about: **Rust, Vue, Nuxt**
 - 📫 Reach me at: [**LinkedIn**](https://www.linkedin.com/in/mengkorng-ly/)
 
-<img src="https://skillicons.dev/icons?i=rust,go,js,ts,nodejs,bun,vue,nuxt,svelte,mysql,postgres,docker,gitlab" />
+<img src="https://skillicons.dev/icons?i=rust,go,js,ts,nodejs,bun,vue,nuxt,svelte,mysql,postgres" />
