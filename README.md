@@ -11,7 +11,8 @@
   </p>  
 </h1>
 
-A developer in **Cambodia** 🇰🇭, A son of beautiful mom and father.
+A developer in **Cambodia** 🇰🇭,
+> A son of a beautiful mom and a kind dad, sibling of three.
 
 - 🌱 Learning: **Rust, DevOps**
 - 👯 Open to collaborating on: **EdTech projects and CLI app** 
